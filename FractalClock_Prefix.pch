@@ -3,6 +3,7 @@
 //
 
 #ifdef __OBJC__
+    #define GL_SILENCE_DEPRECATION
     #import <Foundation/Foundation.h>
     #import <AppKit/AppKit.h>
 #endif
