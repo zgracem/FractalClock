@@ -1,5 +1,7 @@
 # FractalClock
 
+![](https://raw.githubusercontent.com/zgracem/FractalClock/master/fractalclock.png)
+
 This is a macOS screen saver. The [original version][og] was created in 2007 by
 [Rob Mayoff] for Mac OS X 10.4 (Tiger) and later, and unfortunately no longer
 works on modern versions of macOS.
